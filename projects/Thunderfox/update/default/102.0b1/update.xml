@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
     <update type="minor" displayVersion="2000.0a1" appVersion="2000.0a1" platformVersion="2000.0a1" buildID="21181002100236">
-        <patch type="complete" URL="https://github.com/typeling1578/dino-game-for-electron/releases/download/v1.1.0/dino-game-linux-arm64.tar" size="1000000"/>
+        <patch type="complete" URL="https://github.com/typeling1578/dino-game-for-electron/releases/download/v1.1.0/dino-game-linux-arm64.tar" size="233631744"/>
     </update>
 </updates>
