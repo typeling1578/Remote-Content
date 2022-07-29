@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
+    <update type="minor" displayVersion="1.0b6" appVersion="102.1" buildID="20220729045137">
+        <patch type="complete" URL="https://github.com/typeling1578/Thunderfox/releases/download/v1.0b6/thunderfox-1.0b6-linux64.mar" size="89982081"/>
+    </update>
 </updates>
